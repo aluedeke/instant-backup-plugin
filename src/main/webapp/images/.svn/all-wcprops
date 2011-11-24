@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/38047/trunk/hudson/plugins/thinBackup/src/main/webapp/images
+END
+settings.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/38047/trunk/hudson/plugins/thinBackup/src/main/webapp/images/settings.png
+END
+restore.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/38047/trunk/hudson/plugins/thinBackup/src/main/webapp/images/restore.png
+END
+backup.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/38047/trunk/hudson/plugins/thinBackup/src/main/webapp/images/backup.png
+END
